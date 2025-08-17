@@ -16,7 +16,7 @@
   </h3>
 </div>
 
-- ![Project ](./IOS-Calculator.gif)
+![Project ](./IOS-Calculator.gif)
 
 <!-- TABLE OF CONTENTS -->
 
