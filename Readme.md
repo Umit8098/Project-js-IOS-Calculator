@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/IOS-Calculator/">
+    <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">
       Demo
     </a>
      | 
-    <a href="https://umit8098.github.io/IOS-Calculator/">
+    <a href="https://umit8098.github.io/Project-js-IOS-Calculator/">
       Project
     </a>
  
@@ -46,13 +46,12 @@
 
 <!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://github.com/Umit8098/Project_Django_Templates_Pizza_App_CH-12_V.03)
+To clone and run this application, you'll need [Git](https://github.com/Umit8098/Project-js-IOS-Calculator.git)
 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/IOS-Calculator.git
-
+$ git clone https://github.com/Umit8098/Project-js-IOS-Calculator.git
 ```
 
 ## About This Project
